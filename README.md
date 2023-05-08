@@ -4,10 +4,12 @@
 ##### ---benchmark
 ##### ------ariam_train.py
 ##### ------classic_model.py
+##### ------DeepModels.py
 ##### ------...
 ##### ------data
-##### ----------Simulated_adolescent
-##### ----------Simulator_child
-##### ----------Simulator_adult
-##### ----------ohio_data
+##### -----------Shanghai_T1DM
+##### -----------Shanghai_T2DM
+##### -----------Simulator_child
+##### -----------Simulator_adult
+##### -----------ohio_data
 
