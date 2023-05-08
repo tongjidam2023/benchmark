@@ -1,2 +1,2 @@
 # benchmark
-code repository for DAM assignment 3
+请将数据文件解压缩后放置在相应文件夹中。
